@@ -1,0 +1,85 @@
+02/12/2019 17:41:26| <EnvioBOLETA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0" xmlns="http://www.sii.cl/SiiDte">
+  <SetDTE ID="R76206031-0T39F21">
+    <Caratula version="1.0">
+      <RutEmisor>76206031-0</RutEmisor>
+      <RutEnvia>76206031-0</RutEnvia>
+      <RutReceptor>14050569-2</RutReceptor>
+      <FchResol>2019-12-02</FchResol>
+      <NroResol>80</NroResol>
+      <TmstFirmaEnv>2019-12-02T17:39:29.1597322-03:00</TmstFirmaEnv>
+      <SubTotDTE>
+        <TpoDTE>39</TpoDTE>
+        <NroDTE>1</NroDTE>
+      </SubTotDTE>
+    </Caratula>
+    <DTE version="1.0">
+      <Documento ID="R76206031-0T39F21">
+        <Encabezado>
+          <IdDoc>
+            <TipoDTE>39</TipoDTE>
+            <Folio>21</Folio>
+            <FchEmis>2019-12-02</FchEmis>
+            <IndServicio>3</IndServicio>
+          </IdDoc>
+          <Emisor>
+            <RUTEmisor>76206031-0</RUTEmisor>
+            <RznSocEmisor>GES RETAIL S.P.A.</RznSocEmisor>
+            <GiroEmisor>Retail</GiroEmisor>
+            <CdgSIISucur>1111</CdgSIISucur>
+            <DirOrigen>Avenida Presidente Eduardo Frei Montalva 9709</DirOrigen>
+            <CmnaOrigen>Quilicura</CmnaOrigen>
+            <CiudadOrigen>SANTIAGO</CiudadOrigen>
+          </Emisor>
+          <Receptor>
+            <RUTRecep>14050569-2</RUTRecep>
+            <CdgIntRecep />
+            <RznSocRecep>Luis Parraguez</RznSocRecep>
+            <Contacto />
+            <DirRecep>BALMACEDA 0211</DirRecep>
+            <CmnaRecep>EL BOSQUE</CmnaRecep>
+            <CiudadRecep>SANTIAGO</CiudadRecep>
+            <DirPostal>BALMACEDA 0211</DirPostal>
+            <CmnaPostal>EL BOSQUE</CmnaPostal>
+            <CiudadPostal>SANTIAGO</CiudadPostal>
+          </Receptor>
+          <Totales>
+            <MntTotal>1200</MntTotal>
+          </Totales>
+        </Encabezado>
+        <Detalle>
+          <NroLinDet>1</NroLinDet>
+          <CdgItem>
+            <TpoCodigo>ALU</TpoCodigo>
+            <VlrCodigo>7802810006592</VlrCodigo>
+          </CdgItem>
+          <NmbItem>Descripcion del articulo</NmbItem>
+          <DscItem />
+          <QtyItem>2</QtyItem>
+          <PrcItem>500</PrcItem>
+          <MontoItem>1000</MontoItem>
+        </Detalle>
+        <Referencia>
+          <NroLinRef>1</NroLinRef>
+          <CodRef>CAJA</CodRef>
+          <RazonRef />
+          <CodVndor> Venta Web 666</CodVndor>
+          <CodCaja>Orden N: </CodCaja>
+        </Referencia>
+        <Referencia>
+          <NroLinRef>2</NroLinRef>
+          <CodRef>PAGO</CodRef>
+          <RazonRef>TOTAL PAGOS: 1200</RazonRef>
+          <CodVndor />
+          <CodCaja />
+        </Referencia>
+        <Referencia>
+          <NroLinRef>3</NroLinRef>
+          <CodRef>MTO</CodRef>
+          <RazonRef>miEmail@mail.cl</RazonRef>
+          <CodVndor />
+          <CodCaja />
+        </Referencia>
+      </Documento>
+    </DTE>
+  </SetDTE>
+</EnvioBOLETA>
