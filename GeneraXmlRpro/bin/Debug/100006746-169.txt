@@ -1,0 +1,8 @@
+27/01/2020 15:12:25| Articulos  
+27/01/2020 15:12:25| FillByAlu:  3511010100156
+27/01/2020 15:12:26| ItemTable.Count: :  
+27/01/2020 15:12:26| FillByAlu:  envio
+27/01/2020 15:12:26| ItemTable.Count: :  
+27/01/2020 15:12:26| AluError_ 3511010100156
+envio
+

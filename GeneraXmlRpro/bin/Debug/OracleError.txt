@@ -1,0 +1,1 @@
+27/01/2020 15:12:26| verifique vista VyVProductos System.Data.OracleClient requiere la version 8.1.7 o posterior del software cliente de Oracle. 

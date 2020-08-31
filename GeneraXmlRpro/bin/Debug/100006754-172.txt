@@ -1,0 +1,3 @@
+27/01/2020 15:12:26| Verifica archivos pendientes en:  C:\ECM\Polling\001001A\IN\RECVD\INVOICE999.xml
+27/01/2020 15:12:26| Invoice Cabecera
+27/01/2020 15:12:27| Pago 
